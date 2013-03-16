@@ -5,7 +5,7 @@ import java.security.NoSuchAlgorithmException;
 public class Pokus {
 
 	/**
-	 * @param args
+	 * @param argslololololo
 	 */
 	public static void main(String[] args) {
 		try{
